@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body{
+ background-image: url(../../public/r.png);
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+}
+img {
+  filter: grayscale(100%) contrast(80%) brightness(90%);
+}
+ 
