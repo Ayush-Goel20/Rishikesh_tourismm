@@ -13,10 +13,10 @@ The Rishikesh Tourism Platform is a comprehensive **[Web/Mobile]** application d
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** [e.g., React.js, Tailwind CSS]
-* **Backend:** [e.g., Node.js with Express]
-* **Database:** [e.g., MongoDB / PostgreSQL]
-* **Deployment:** [e.g., Hosted on AWS / Vercel]
+* **Frontend:** [React.js, Tailwind CSS]
+* **Backend:** [Node.js with Express]
+* **Database:** [ MongoDB / PostgreSQL]
+* **Deployment:** [ Hosted on AWS / Vercel]
 
 ## 🚀 Getting Started
 
@@ -25,8 +25,8 @@ Follow these instructions to set up and run the project locally.
 ### Prerequisites
 
 You must have the following installed:
-* [e.g., Node.js (v18+)]
-* [e.g., npm or yarn]
+* [ Node.js (v18+)]
+* [npm or yarn]
 
 ### Installation
 
