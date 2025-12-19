@@ -59,4 +59,3 @@ You must have the following installed:
 
 ## 🤝 Contribution
 
-[Section to describe how others can contribute, if applicable.]
